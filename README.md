@@ -1,3 +1,2 @@
 # training
-Testing
-Playing with github. Fun stuff.
+Focused on Cloud IaC. Development. Full Stack CI/CD.
